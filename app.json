@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "qwe",
-    "slug": "qwe",
+    "name": "Happy Birthday",
+    "slug": "happy-birthday",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/birthday-card.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/birthday-card.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
